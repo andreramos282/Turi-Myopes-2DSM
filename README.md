@@ -59,7 +59,7 @@ RF01 – Focos de calor por estado                                       | Usuá
 RF02 – Focos de calor por bioma                                        | Usuário | Visualizar os biomas de forma demarcada | localizar de forma fácil os biomas e seus focos de calor  |
 RF03 – Risco de fogo por estado                                        | Usuário | Visualizar os estados com maior risco de fogo | visualizar de forma fácil os estados com maior risco |
 RF04 – Risco de fogo por bioma                                         | Usuário | Visualizar os biomas com maior risco de fogo | saber os biomas com maior risco |
-RF05 – Área queimada por estado                                        | Usuário | Visualizar as aeras queimadas por estados de forma demarcada | fácil visualização das aeras queimadas separando por estado |
+RF05 – Área queimada por estado                                        | Usuário | Visualizar as áreas queimadas por estados de forma demarcada | fácil visualização das aeras queimadas separando por estado |
 RF06 – Área queimada por bioma                                         | Usuário | Visualizar a área queimada por bioma de forma demarcada | fácil visualização da área queimada separando por bioma |
 RF07 – Gráficos de focos de calor por estado e bioma                   | Usuário | gráfico que mostre os focos de calor podendo escolher entre bioma e estado | ver de forma fácil e simplificada os focos de calor |
 RF08 – Gráficos de risco de fogo por estado e bioma                    | Usuário | gráfico que mostre o risco de fogo podendo escolher entre bioma e estado | ver de forma fácil e simplificada os riscos de fogo |
